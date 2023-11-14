@@ -1,0 +1,8 @@
+B:\OOP\Lab_7\GenericCache\bin\Debug\GenericCache.exe.config
+B:\OOP\Lab_7\GenericCache\bin\Debug\GenericCache.exe
+B:\OOP\Lab_7\GenericCache\bin\Debug\GenericCache.pdb
+B:\OOP\Lab_7\GenericCache\obj\Debug\GenericCache.csproj.AssemblyReference.cache
+B:\OOP\Lab_7\GenericCache\obj\Debug\GenericCache.csproj.SuggestedBindingRedirects.cache
+B:\OOP\Lab_7\GenericCache\obj\Debug\GenericCache.csproj.CoreCompileInputs.cache
+B:\OOP\Lab_7\GenericCache\obj\Debug\GenericCache.exe
+B:\OOP\Lab_7\GenericCache\obj\Debug\GenericCache.pdb

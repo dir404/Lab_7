@@ -1,0 +1,8 @@
+B:\OOP\Lab_7\GenericTaskScheduler\bin\Debug\GenericTaskScheduler.exe.config
+B:\OOP\Lab_7\GenericTaskScheduler\bin\Debug\GenericTaskScheduler.exe
+B:\OOP\Lab_7\GenericTaskScheduler\bin\Debug\GenericTaskScheduler.pdb
+B:\OOP\Lab_7\GenericTaskScheduler\obj\Debug\GenericTaskScheduler.csproj.AssemblyReference.cache
+B:\OOP\Lab_7\GenericTaskScheduler\obj\Debug\GenericTaskScheduler.csproj.SuggestedBindingRedirects.cache
+B:\OOP\Lab_7\GenericTaskScheduler\obj\Debug\GenericTaskScheduler.csproj.CoreCompileInputs.cache
+B:\OOP\Lab_7\GenericTaskScheduler\obj\Debug\GenericTaskScheduler.exe
+B:\OOP\Lab_7\GenericTaskScheduler\obj\Debug\GenericTaskScheduler.pdb

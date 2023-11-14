@@ -1,0 +1,8 @@
+B:\OOP\Lab_7\GenericСalculator\bin\Debug\GenericСalculator.exe.config
+B:\OOP\Lab_7\GenericСalculator\bin\Debug\GenericСalculator.exe
+B:\OOP\Lab_7\GenericСalculator\bin\Debug\GenericСalculator.pdb
+B:\OOP\Lab_7\GenericСalculator\obj\Debug\GenericСalculator.csproj.AssemblyReference.cache
+B:\OOP\Lab_7\GenericСalculator\obj\Debug\GenericСalculator.csproj.SuggestedBindingRedirects.cache
+B:\OOP\Lab_7\GenericСalculator\obj\Debug\GenericСalculator.csproj.CoreCompileInputs.cache
+B:\OOP\Lab_7\GenericСalculator\obj\Debug\GenericСalculator.exe
+B:\OOP\Lab_7\GenericСalculator\obj\Debug\GenericСalculator.pdb

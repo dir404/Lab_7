@@ -1,0 +1,8 @@
+B:\OOP\Lab_7\GenericRepository\bin\Debug\GenericRepository.exe.config
+B:\OOP\Lab_7\GenericRepository\bin\Debug\GenericRepository.exe
+B:\OOP\Lab_7\GenericRepository\bin\Debug\GenericRepository.pdb
+B:\OOP\Lab_7\GenericRepository\obj\Debug\GenericRepository.csproj.AssemblyReference.cache
+B:\OOP\Lab_7\GenericRepository\obj\Debug\GenericRepository.csproj.SuggestedBindingRedirects.cache
+B:\OOP\Lab_7\GenericRepository\obj\Debug\GenericRepository.csproj.CoreCompileInputs.cache
+B:\OOP\Lab_7\GenericRepository\obj\Debug\GenericRepository.exe
+B:\OOP\Lab_7\GenericRepository\obj\Debug\GenericRepository.pdb
